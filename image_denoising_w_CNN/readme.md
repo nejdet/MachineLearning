@@ -1,4 +1,4 @@
-Given notebook file will download 5 images from github repository. 
+Given notebook file will download 6 images from github repository. 
 These images will be used to make list of 256x256 grayscale patches.
 500 patches will be randomly selected from each images.
 Gaussian noise will be added to each patch.
